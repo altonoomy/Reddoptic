@@ -7,7 +7,7 @@ A reddit application that allows keyword searches, subreddit and time range filt
 3. Run 'pip install -r requirements.txt'
 
 # Usage:
-  usage: reddoptic.py [-h] [-u username] [-f filter] [-t time filter] [-r range] [-I] [-S] [-C] [-A]
+  `usage: reddoptic.py [-h] [-u username] [-f filter] [-t time filter] [-r range] [-I] [-S] [-C] [-A]
                       [-k word [word ...]] [-s name [name ...]] [-n]
 
   options:
@@ -29,4 +29,4 @@ A reddit application that allows keyword searches, subreddit and time range filt
                           Keyword(s) used to search submissions/comments.
     -s name [name ...], --subreddit name [name ...]
                           Subreddit(s) used to filter submissions/comments.
-    -n, --nsfw            Only show NSFW comments/submissions.
+    -n, --nsfw            Only show NSFW comments/submissions.`
